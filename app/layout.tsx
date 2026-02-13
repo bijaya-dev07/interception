@@ -15,7 +15,8 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Bijaya Tamang - Software Engineer",
-  description: "Software Engineer specializing in frontend development, with a passion for creating intuitive and engaging user experiences. Skilled in React, Next.js, and TypeScript, I thrive on building responsive and performant web applications. With a strong foundation in UI/UX design principles, I am dedicated to crafting seamless interfaces that delight users. Let's connect and collaborate on innovative projects that push the boundaries of web development.",
+  description:
+    "Software Engineer specializing in frontend development, with a passion for creating intuitive and engaging user experiences. Skilled in React, Next.js, and TypeScript, I thrive on building responsive and performant web applications. With a strong foundation in UI/UX design principles, I am dedicated to crafting seamless interfaces that delight users. Let's connect and collaborate on innovative projects that push the boundaries of web development.",
 };
 
 export default function RootLayout({
